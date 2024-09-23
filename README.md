@@ -12,7 +12,7 @@ The application includes a  landing page showing what i do, my skills background
 * And you are all done
 
 ## Live server
-* You can view the web live on [Portfolio](https://github.com/Kichwen651/dexter-sdft11/)
+* You can view the web live on [Portfolio](https://kichwen651.github.io/Portfolio2/)
 
 ## Known Bugs
 The application works perfectly well, no bugs.
